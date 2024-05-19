@@ -1,4 +1,4 @@
-![Data Science Portfolio - Ken Vellian](<img src="assets/img/headshot_circle_cropped.png" alt="Name" width="200" height="200">)
+<img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
 
 #### Technical Skills: Python, R, SQL, Tableau
 
