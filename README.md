@@ -4,9 +4,9 @@
 
 ## Education
 
-- M.S., Data Science | DePaul University | (_Expected June 2025_)
+M.S., Data Science | DePaul University | (_Expected June 2025_)
   - Concentration: Computational Methods 
-- B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 2020_)
+B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 2020_)
   - Minor: Computer Science
 
 
