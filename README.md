@@ -1,6 +1,4 @@
-![Ken Vellian](assets/img/headshot_circle_cropped.png)
-
-# Data Scientist
+![Data Science Portfolio - Ken Vellian](<img src="assets/img/headshot_circle_cropped.png" alt="Name" width="200" height="200">)
 
 #### Technical Skills: Python, R, SQL, Tableau
 
