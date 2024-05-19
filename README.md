@@ -1,3 +1,5 @@
+![Ken Vellian](assets/img/headshot_circle_cropped.png)
+
 # Data Scientist
 
 #### Technical Skills: Python, R, SQL, Tableau
