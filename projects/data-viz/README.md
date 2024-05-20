@@ -42,8 +42,6 @@ Using this bar plot, to count properties by type, we can confirm our assumption 
 
 <img src="/projects/data-viz/img/count_bar_plot.png" alt="Count Bar Plot image">
 
-<img src="/projects/data-viz/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
-
 ## Average Single-Family Home
 
 
