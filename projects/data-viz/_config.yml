@@ -1,0 +1,8 @@
+title: Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠
+# description: Description of your project
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://kvellian.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-slate
