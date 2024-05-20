@@ -38,7 +38,7 @@ Collaboration with our team, GraphGurus:
 
 ## Initial Analysis
 
-![Scatter plot panel](/assets/img/eeg_band_discovery.jpeg)
+![Count of Properties by Type: Bar Plot](/img/count_bar_plot.png)
 
 ## License
 
