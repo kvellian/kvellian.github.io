@@ -33,8 +33,8 @@ B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 202
 **Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠**
 - Topic: Data Visualization (R)
 - Collaborative Project
-- [Visit Project](https://github.com/kvellian/portfolio/tree/main/projects/data-viz)
+- [Visit Project](https://kvellian.github.io/data_viz/)
 - [Data Source](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
 
 
-<img src="assets/img/count_bar_plot.png" alt="count bar plot">
+
