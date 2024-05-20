@@ -46,8 +46,5 @@ Using this bar plot, to count properties by type, we can confirm our assumption 
 
 ## Average Single-Family Home
 
-## License
-
-Information about the project's license.
 
 
