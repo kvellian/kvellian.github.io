@@ -36,3 +36,5 @@ B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 202
 - [Visit Project](https://github.com/kvellian/portfolio/tree/main/projects/data-viz)
 - [Data Source](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
 
+
+<img src="assets/img/count_bar_plot.png" alt="count bar plot">
