@@ -48,3 +48,5 @@ Using this bar plot, to count properties by type, we can confirm our assumption 
 ## License
 
 Information about the project's license.
+
+
