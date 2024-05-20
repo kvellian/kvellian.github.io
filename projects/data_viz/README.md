@@ -38,7 +38,7 @@ Collaboration with our team, GraphGurus:
 
 ## Initial Analysis
 
-![Count of Properties by Type: Bar Plot](/assets/projects/data_viz/img/count_bar_plot.png)
+![Count of Properties by Type: Bar Plot](/projects/data_viz/img/count_bar_plot.png)
 
 ## License
 
