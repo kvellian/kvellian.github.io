@@ -11,7 +11,7 @@ Data Bias:
 
 ## Data Exploration
 
-- 501 rows,
+- Original data: 501 rows, 14 columns.
 
 | Category    | Field             | Description                                       |
 |-------------|-------------------|---------------------------------------------------|
@@ -29,7 +29,7 @@ Data Bias:
 |             | beds              | Number of Bedrooms                                |
 |             | sqft              | Square footage of property                        |
 |             | stories           | Number of stories in property                     |
-| Geographical| street_address    | The street address of the property listing        |
+| Geographical (created through URL column extraction)| street_address    | The street address of the property listing        |
 |             | city              | City of listing                                   |
 |             | state             | State of listing (Texas)                          |
 |             | zip               | Zip code of listing                               |
