@@ -40,7 +40,7 @@ Collaboration with our team, GraphGurus:
 
 Using this bar plot, to count properties by type, we can confirm our assumption about the large presence of single-family homes in the dataset, with 400 listings. This explanatory visualization displays the sums of each type at the top of the bar to inform the reader of the exact count, and the size of the bars allows us to visually gauge each type's impact on the dataset. Exploring this property type further might provide great insights due to its large significance. It will allow us to make reasonable estimations when diving deeper.
 
-<img src="https://drive.usercontent.google.com/download?id=1Rwq6mr7kJrOI_fUuLDSQmMAAP27meBk1" alt="Count Bar Plot">
+<img src="/projects/data-viz/img/count_bar_plot.png" alt="Count Bar Plot image">
 
 <img src="/projects/data-viz/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
 
