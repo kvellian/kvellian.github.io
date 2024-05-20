@@ -2,10 +2,6 @@
 
 This project aims to explore what the average single-family home in Texas could look like through data visualization.
 
-Collaboration with our team, GraphGurus: 
-- Performed by Francisco Lozano: KNN Imputation to clean missing square footage, # of stories, and year built.
-- Performed by Ken Vellian: Extract address information, through regular expressions, from the URL column to create the new street address, city, state, and zip columns. Extract square footage and acre size, through regular expressions, from the text column and fill in missing square footage values.
-
 Data Bias:
 - According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
 
@@ -19,7 +15,7 @@ Data Bias:
 |             | sub_type          | Sub Category of property type, such as “condo” or “townhouse” |
 |             | text              | Text description narrative used in listing, descriptor of characteristics of property |
 |             | type              | General type of property                          |
-|             | Year_built        | Year the property was constructed                 |
+|             | year_built        | Year the property was constructed                 |
 |             | url               | Realtor.com page for listing                      |
 |             | id                | Unique Numerical Listing ID                       |
 | Numerical   | listPrice         | The asking price                                  |
@@ -34,13 +30,15 @@ Data Bias:
 |             | state             | State of listing (Texas)                          |
 |             | zip               | Zip code of listing                               |
 
-## Usage
+## Data Cleaning
 
-Instructions for using or running your project.
+Collaboration with our team, GraphGurus: 
+- Performed by Francisco Lozano: KNN Imputation to clean missing square footage, # of stories, and year built.
+- Performed by Ken Vellian: Extract address information, through regular expressions, from the URL column to create the new street address, city, state, and zip columns. Extract square footage and acre size, through regular expressions, from the text column and fill in missing square footage values.
 
-## Contributing
+## Initial Analysis
 
-Guidelines for contributing to the project.
+![Scatter plot panel](/assets/img/eeg_band_discovery.jpeg)
 
 ## License
 
