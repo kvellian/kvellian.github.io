@@ -26,8 +26,8 @@
 ## Projects
 **Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
 - Topic: Database Processing for Large-Scale Analytics (Python, SQL, JSON)
-- [Visit Project](https://kvellian.github.io/sql_vs_functions/)
 - This project aims to populate databases and retrieve information in various methods using this Twitter data and compare their performances.
+- [Visit Project](https://kvellian.github.io/sql_vs_functions/)
 
 **Predicting Penguin Sizes**
 - Topic: Fundamentals of Data Science (R)
@@ -36,5 +36,5 @@
 **Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠**
 - Topic: Data Visualization (R)
 - Collaborative Project
-- [Visit Project](https://kvellian.github.io/data_viz/)
 - This project explores what the average single-family home in Texas could look like.
+- [Visit Project](https://kvellian.github.io/data_viz/)
