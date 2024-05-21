@@ -25,6 +25,7 @@ B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 202
 **Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
 - Topic: Database Processing for Large-Scale Analytics (Python, SQL, JSON)
 - [Visit Project](https://kvellian.github.io/sql_vs_functions/)
+- This project aims to populate databases and retrieve information in various methods using this Twitter data and compare their performances.
 
 **Predicting Penguin Sizes**
 - Topic: Fundamentals of Data Science (R)
@@ -34,7 +35,4 @@ B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 202
 - Topic: Data Visualization (R)
 - Collaborative Project
 - [Visit Project](https://kvellian.github.io/data_viz/)
-
-
-
-
+- This project explores what the average single-family home in Texas could look like.
