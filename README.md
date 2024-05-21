@@ -24,7 +24,7 @@ B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 202
 ## Projects
 **Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
 - Topic: Database Processing for Large-Scale Analytics (Python, SQL, JSON)
-- [Data Source](http://dbgroup.cdm.depaul.edu/DSC450/OneDayOfTweets.txt)
+- [Visit Project](https://kvellian.github.io/sql_vs_functions/)
 
 **Predicting Penguin Sizes**
 - Topic: Fundamentals of Data Science (R)
@@ -34,7 +34,7 @@ B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 202
 - Topic: Data Visualization (R)
 - Collaborative Project
 - [Visit Project](https://kvellian.github.io/data_viz/)
-- [Data Source](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
+
 
 
 
