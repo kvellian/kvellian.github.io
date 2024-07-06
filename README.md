@@ -29,7 +29,7 @@
 - This project aims to populate databases and retrieve information in various methods using this Twitter data and compare their performances.
 - [Visit Project](https://kvellian.github.io/sql_vs_functions/)
 
-**Predicting Penguin Gender through their Characteristics**
+**Predicting Penguin Gender Through Their Characteristics**
 - Topic: Fundamentals of Data Science (R)
 - [Data Source](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
 
