@@ -25,18 +25,17 @@
 
 ## Projects
 **Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
+- [Visit Project](https://kvellian.github.io/sql_vs_functions/)
 - Topic: Database Processing for Large-Scale Analytics (Python, SQL, JSON)
 - This project aims to populate databases and retrieve information in various methods using this Twitter data and compare their performances.
-- [Visit Project](https://kvellian.github.io/sql_vs_functions/)
-
-**Predicting Penguin Gender Through Their Characteristics**
-- Topic: Fundamentals of Data Science (R)
-- This project explores the accuracy of different machine-learning algorithms to predict penguin gender.
-- [Visit Project](https://kvellian.github.io/ds_fundamentals/)
-  
 
 **Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠**
+- [Visit Project](https://kvellian.github.io/data_viz/)
 - Topic: Data Visualization (R)
 - Collaborative Project
 - This project explores what the average single-family home in Texas could look like.
-- [Visit Project](https://kvellian.github.io/data_viz/)
+
+**Predicting Penguin Gender Through Their Characteristics**
+- [Visit Project](https://kvellian.github.io/ds_fundamentals/)
+- Topic: Fundamentals of Data Science (R)
+- This project explores the accuracy of different machine-learning algorithms to predict penguin gender.
