@@ -31,7 +31,9 @@
 
 **Predicting Penguin Gender Through Their Characteristics**
 - Topic: Fundamentals of Data Science (R)
-- [Data Source](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
+- This project explores the accuracy of different machine-learning algorithms to predict penguin gender.
+- [Visit Project](https://kvellian.github.io/ds_fundamentals/)
+  
 
 **Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠**
 - Topic: Data Visualization (R)
