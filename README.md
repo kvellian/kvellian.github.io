@@ -13,15 +13,6 @@
 - Minor: Computer Science
 
 
-## Work Experience
-**Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
-- bullet 1!
-- bullet 2!
-
-
-**Client Services Consultant @ Oracle Textura Payment Management | Pleasanton, CA (Remote) (_April 2021 – October 2022_)**
-- bullet 1!
-- bullet 2!
 
 ## Projects
 **Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
@@ -39,3 +30,12 @@
 - [Visit Project](https://kvellian.github.io/ds_fundamentals/)
 - Topic: Fundamentals of Data Science (R)
 - This project explores the accuracy of different machine-learning algorithms to predict penguin gender.
+
+
+## Work Experience
+**Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
+- Improved business operations through new scalable IT solutions to process a higher volume of customers which resulted in a 43.78% increase in sales over one month.
+
+
+**Client Services Consultant @ Oracle Textura Payment Management | Pleasanton, CA (Remote) (_April 2021 – October 2022_)**
+- Drive enterprise-wide adoption of a risk/payment management SaaS product through pre-sales consulting, client implementation, and managing 9 account relationships with ongoing post-sales support.
