@@ -32,12 +32,5 @@
 **B.S., Info. Systems & Decision Sciences | Louisiana State University**
 - Minor: Computer Science
 
-## Work Experience
 
-**Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
-- Implemented new scalable IT solutions to process a higher volume of customers, boosting sales by 43.78% in 1 month. - Utilized SEO to market the business, revealed product/customer insights, generated product reports, and managed daily accounting.
-
-**Client Services Consultant @ Oracle Textura | Pleasanton, CA (Remote) (_April 2021 – October 2022_)**
-- Drive enterprise-wide SaaS adoption of the risk/payment management product through pre-sales consulting, client implementation, ongoing post-sales support, and managing 9 key accounts.
-- Gathered client requirements and configured the platform to streamline their specific business processes and manual workflows. Proactively implemented new system functionality through a fit-gap analysis.
 
