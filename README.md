@@ -1,4 +1,6 @@
-![image](https://github.com/kvellian/kvellian.github.io/assets/29783528/db09124f-9375-41b4-8da5-c2de486bdd46)## Ken Vellian
+![image](https://github.com/kvellian/kvellian.github.io/assets/29783528/db09124f-9375-41b4-8da5-c2de486bdd46)
+
+## Ken Vellian
 
 <img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
 
