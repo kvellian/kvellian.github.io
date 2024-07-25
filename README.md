@@ -34,9 +34,14 @@
 ## Work Experience
 
 **Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
-- Implemented new scalable IT solutions to process a higher volume of customers, boosting sales by 43.78% in 1 month.
-- Utilized SEO to market the business, revealed product/customer insights, generated product reports, and managed daily accounting.
+- Implemented the LMS-POS system to scale operations and process a higher volume of transactions, which boosted sales by 43.78% in 1 month.
+- Improved the report system by tracking products sold by vendors to make more informed decisions when ordering. 
+- Utilized SEO to market the business through Google Maps and Yelp, and managed daily accounting through Excel.
+- Managed vendor relationships, negotiated contracts to reduce costs, and coordinated with employees to maintain product availability and customer retention.
+
 
 **Client Services Consultant @ Oracle Textura | Pleasanton, CA (Remote) (_April 2021 – October 2022_)**
 - Drive enterprise-wide SaaS adoption of the risk/payment management product through pre-sales consulting, client implementation, ongoing post-sales support, and managing 9 key accounts.
 - Gathered client requirements and configured the platform to streamline their specific business processes and manual workflows. Proactively implemented new system functionality through a fit-gap analysis.
+- Created a knowledge base of standard practices, with JIRA, to efficiently resolve an average of 5 new support requests daily while maintaining project deadlines and escalating issues as needed.
+- Generated reports to analyze data, identify discrepancies, troubleshoot ERP integration issues, and collaborate with cross-functional teams to solve complex problems while maintaining client satisfaction.
