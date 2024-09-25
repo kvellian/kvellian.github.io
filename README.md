@@ -44,5 +44,4 @@
 - Drive enterprise-wide SaaS adoption of Textura through pre-sales consulting, client implementations, and ongoing post-sales support, while managing 9 key accounts.
 - Collaborated with C-level executives, project managers, and accountants to gather business requirements, streamline manual workflows, deliver custom software demos, and execute implementation plans.
 - Documented user stories and collaborated with the development team to test the quality of new product features, then deployed rollout plans for clients to use upon release.
-- Resolved a wide range of client support tickets, addressing issues such as lien waiver management, identifying data discrepancies, troubleshooting integration issues (CMiC, Sage 300, Viewpoint), and onboarding subcontractors. Collaborated with cross-functional teams to solve complex problems and deliver timely solutions.
-
+- Resolved a wide range of client support tickets, addressing issues such as lien waiver management, data discrepancies, payment disbursements, troubleshooting integration issues (CMiC, Sage 300, Viewpoint), and onboarding subcontractors. Collaborated with cross-functional teams to solve complex problems and deliver timely solutions.
