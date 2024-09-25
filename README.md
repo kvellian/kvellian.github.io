@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a9c9ef8f-acee-49dc-82d5-c4ff710a8943)
-
 ## Ken Vellian
 
 <img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
