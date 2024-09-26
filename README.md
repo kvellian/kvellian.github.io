@@ -5,18 +5,25 @@
 #### Technical Skills: Python, R, SQL, Tableau
 
 ## Projects
-**Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
+
+**Bizi Mart Tobacco Reorder Point List (September 2024)**
+- [Visit Project](https://kvellian.github.io/bizi_reorder_tobacco/)
+- Topic: Decision Sciences (Python, Excel)
+- This project aims to create a color-coded tobacco product shopping list for Bizi Mart that highlights levels of urgency to reorder (Red, Yellow, Orange, Green).
+
+
+**Runtime Comparison of SQL Queries vs. Functions on Twitter Databases (March 2024)**
 - [Visit Project](https://kvellian.github.io/sql_vs_functions/)
 - Topic: Database Processing for Large-Scale Analytics (Python, SQL, JSON)
 - This project aims to populate databases and retrieve information in various methods using this Twitter data and compare their performances.
 
-**Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠**
+**Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠 (March 2024)**
 - [Visit Project](https://kvellian.github.io/data_viz/)
 - Topic: Data Visualization (R)
 - Collaborative Project
 - This project explores what the average single-family home in Texas could look like.
 
-**Predicting Penguin Gender Through Their Characteristics**
+**Predicting Penguin Gender Through Their Characteristics (November 2023)**
 - [Visit Project](https://kvellian.github.io/ds_fundamentals/)
 - Topic: Fundamentals of Data Science (R)
 - This project explores the accuracy of different machine-learning algorithms to predict penguin gender.
