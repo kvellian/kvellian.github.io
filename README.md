@@ -9,7 +9,7 @@
 **Retrieval-Augmented Generation System for the Harry Potter Corpus - A Complete End-to-End Private RAG Pipeline
  (November 2026)**
 - [Visit Project](https://hp-rag-retrieval-playground-9n5gnmospc7u4vhcxnumqx.streamlit.app/)
-- Topic: Decision Sciences (Python, Data Cleaning, Preprocessing, RAG, LLMs, Embedding models)
+- Topic: Decision Sciences (Python, Data Scraping, Cleaning, Preprocessing, RAG, LLMs, Embedding models)
 - This project develops a complete end-to-end Retrieval-Augmented Generation (RAG) system using the Harry Potter book corpus as a stand-in for enterprise documents. The goal is to simulate how companies deploy Large Language Models (LLMs) over their private, internal data while maintaining privacy, traceability, and retrieval accuracy. The system includes every major pipeline component: web scraping, text cleaning, chunking, embedding generation, hybrid retrieval with blending weights, reranking, evaluation using custom question-answer datasets, grid search over hyperparameters, and a fully deployable Streamlit web application.
 
 
