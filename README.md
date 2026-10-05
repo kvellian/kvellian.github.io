@@ -17,14 +17,17 @@ Data scientist focused on health and applied AI.
 - Results: hybrid retrieval over 549 documents (3,821 chunks) found the answer in the top 3 results 81% of the time.
 
 **Brain Tumor MRI Classification (March 2025)**
+- [Visit Project](https://kvellian.github.io/brain_tumor_mri/)
 - Topic: Neural Networks (Python, PyTorch, Grad-CAM, LIME)
 - Fine-tuned a pretrained ResNet50 to classify brain MRI scans into four classes. After removing 218 duplicate images, the model reached 98% accuracy on 1,284 test images, with Grad-CAM and LIME used to inspect what it focused on.
 
 **Predicting 30-Day Diabetic Readmission (November 2024)**
+- [Visit Project](https://kvellian.github.io/diabetes_readmission/)
 - Topic: Advanced Machine Learning (Python, scikit-learn)
 - Compared feature selection methods and tuned a Random Forest across 18 experiments on 25,000 patient records, reaching 0.62 cross-validated accuracy and 0.66 AUC.
 
 **Credit Card Fraud Detection on AWS (Fall 2024)**
+- [Visit Project](https://kvellian.github.io/fraud_detection_aws/)
 - Topic: Mining Big Data (PySpark, Spark MLlib, AWS EMR, S3, Athena)
 - Built a PySpark MLlib Random Forest pipeline on AWS EMR over 1 million transactions. Class weighting raised fraud recall from 86% to 98%, measured on the full dataset.
 
