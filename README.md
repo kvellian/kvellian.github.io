@@ -2,22 +2,36 @@
 
 <img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
 
-#### Technical Skills: Python, R, SQL, Tableau
+Data scientist focused on health and applied AI.
+
+#### Technical Skills: Python, R, SQL, PyTorch, PySpark, AWS, Tableau
+
+#### Contact: [kvellian@gmail.com](mailto:kvellian@gmail.com)
 
 ## Projects
 
-**Retrieval-Augmented Generation System for the Harry Potter Corpus - A Complete End-to-End Private RAG Pipeline
- (November 2026)**
+**Retrieval-Augmented Generation System for the Harry Potter Corpus - A Complete End-to-End Private RAG Pipeline (November 2025)**
 - [Visit Project](https://hp-rag-retrieval-playground-9n5gnmospc7u4vhcxnumqx.streamlit.app/)
 - Topic: Decision Sciences (Python, Data Scraping, Cleaning, Preprocessing, RAG, LLMs, Embedding models)
 - This project develops a complete end-to-end Retrieval-Augmented Generation (RAG) system using the Harry Potter book corpus as a stand-in for enterprise documents. The goal is to simulate how companies deploy Large Language Models (LLMs) over their private, internal data while maintaining privacy, traceability, and retrieval accuracy. The system includes every major pipeline component: web scraping, text cleaning, chunking, embedding generation, hybrid retrieval with blending weights, reranking, evaluation using custom question-answer datasets, grid search over hyperparameters, and a fully deployable Streamlit web application.
+- Results: hybrid retrieval over 549 documents (3,821 chunks) found the answer in the top 3 results 81% of the time.
 
+**Brain Tumor MRI Classification (March 2025)**
+- Topic: Neural Networks (Python, PyTorch, Grad-CAM, LIME)
+- Fine-tuned a pretrained ResNet50 to classify brain MRI scans into four classes. After removing 218 duplicate images, the model reached 98% accuracy on 1,284 test images, with Grad-CAM and LIME used to inspect what it focused on.
+
+**Predicting 30-Day Diabetic Readmission (November 2024)**
+- Topic: Advanced Machine Learning (Python, scikit-learn)
+- Compared feature selection methods and tuned a Random Forest across 18 experiments on 25,000 patient records, reaching 0.62 cross-validated accuracy and 0.66 AUC.
+
+**Credit Card Fraud Detection on AWS (Fall 2024)**
+- Topic: Mining Big Data (PySpark, Spark MLlib, AWS EMR, S3, Athena)
+- Built a PySpark MLlib Random Forest pipeline on AWS EMR over 1 million transactions. Class weighting raised fraud recall from 86% to 98%, measured on the full dataset.
 
 **Bizi Mart Tobacco Reorder Point List (September 2024)**
 - [Visit Project](https://kvellian.github.io/bizi_reorder_tobacco/)
 - Topic: Decision Sciences (Python, Excel)
 - This project aims to create a color-coded tobacco product shopping list for Bizi Mart that highlights levels of urgency to reorder (Red, Yellow, Orange, Green).
-
 
 **Runtime Comparison of SQL Queries vs. Functions on Twitter Databases (March 2024)**
 - [Visit Project](https://kvellian.github.io/sql_vs_functions/)
@@ -35,17 +49,21 @@
 - Topic: Fundamentals of Data Science (R)
 - This project explores the accuracy of different machine-learning algorithms to predict penguin gender.
 
-
 ## Education
 
-**M.S., Data Science | DePaul University | (_Expected December 2025_)**
+**M.S., Data Science | DePaul University | (_December 2025_)**
 - Concentration: Computational Methods
 
 **B.S., Info. Systems & Decision Sciences | Louisiana State University**
 - Minor: Computer Science
 
-
 ## Work Experience
+
+**Customer Success Associate @ WM Synergy | Arlington Heights, IL (_May 2025 - Present_)**
+- Built and deployed AI-powered quoting skills for the whole team, quadrupling monthly quote output (~11 to ~42).
+- Built AI sub-agents that automate end-to-end workflows at 84% accuracy without human-in-the-loop review.
+- Acting product manager for Customer Portal V2, gathering requirements from cross-functional stakeholders and customers.
+- Negotiated and closed quotes across 200+ accounts with customers and management.
 
 **Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
 - Implemented the LMS-POS system to scale operations and process a higher volume of transactions, which boosted sales by 43.78% in 1 month.
@@ -53,9 +71,8 @@
 - Utilized SEO to market the business through Google Maps and Yelp, and managed daily accounting through Excel.
 - Managed vendor relationships, negotiated contracts to reduce costs, and coordinated with employees to maintain product availability and customer retention.
 
-
 **Client Services Consultant @ Oracle Textura | Pleasanton, CA (Remote) (_April 2021 – October 2022_)**
-- Drive enterprise-wide SaaS adoption of Textura through pre-sales consulting, client implementations, and ongoing post-sales support, while managing 9 key accounts.
+- Drove enterprise-wide SaaS adoption of Textura through pre-sales consulting, client implementations, and ongoing post-sales support, while managing 9 key accounts.
 - Collaborated with C-level executives, project managers, and accountants to gather business requirements, streamline manual workflows, deliver custom software demos, and execute implementation plans.
 - Documented user stories and collaborated with the development team to test the quality of new product features, then deployed rollout plans for clients to use upon release.
 - Resolved a wide range of client support tickets, addressing issues such as lien waiver management, data discrepancies, payment disbursements, troubleshooting integration issues (CMiC, Sage 300, Viewpoint), and onboarding subcontractors. Collaborated with cross-functional teams to solve complex problems and deliver timely solutions.
