@@ -2,7 +2,7 @@
 
 <img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
 
-Data scientist focused on health and applied AI.
+Data scientist focused on health, manufacturing, and applied AI.
 
 #### Technical Skills: Python, R, SQL, PyTorch, PySpark, AWS, Tableau
 
