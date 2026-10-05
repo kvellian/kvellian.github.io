@@ -1,7 +1,5 @@
 ## Ken Vellian
 
-<img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
-
 Data scientist focused on health, manufacturing, and applied AI.
 
 #### Technical Skills: Python, R, SQL, PyTorch, PySpark, AWS, Tableau
@@ -65,7 +63,7 @@ Data scientist focused on health, manufacturing, and applied AI.
 **Customer Success Associate @ WM Synergy | Arlington Heights, IL (_May 2025 - Present_)**
 - Built and deployed AI-powered quoting skills for the whole team, quadrupling monthly quote output (~11 to ~42).
 - Built AI sub-agents that automate end-to-end workflows at 84% accuracy without human-in-the-loop review.
-- Acting product manager for Customer Portal V2, gathering requirements from cross-functional stakeholders and customers.
+- Acting product manager for the Customer Portal, gathering requirements from cross-functional stakeholders and customers.
 - Negotiated and closed quotes across 200+ accounts with customers and management.
 
 **Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
